@@ -1,5 +1,9 @@
 python-telegram-bot==13.15
-torch
+flask==2.3.0
+torch==2.1.0
 pillow
 numpy
+requests
+transformers
 python-dotenv
+
